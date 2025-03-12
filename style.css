@@ -138,7 +138,7 @@ nav a {
 display: block;
   font-size: 2rem;
   font-weight: bold;
-  color: #a66;
+  color: #a66 !important;
   text-decoration: none;
   text-align: center;
   padding: 15px;
